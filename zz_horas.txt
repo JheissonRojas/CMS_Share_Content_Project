@@ -1,0 +1,22 @@
+primero 
+   zinicontent.php  - --> para escribir los contenidos ahi el cronograma de los ya escritos y los por escribir
+   escribir el nuevo contenido o el contenido faltante si el simbolo es - 
+segundo
+   zinicontent.php  - --> EJECUTAR para escribir el contenido del zinicontent en los archivos
+tercero
+   zcreate_dir.php  --> crear el nuevo directorio con el contenido anterior
+   
+
+
+  zwritefile -> escribe en el archivo
+
+Hora real de publicacion 
+dia 16
+
+	hour1	hour2	hour3	hour4
+TFF	  5	         11	         19	           21
+TEC	  9	         16	         20	           22
+WTF	  10	         17	         21	           23
+CUR	  10	         18	         22	           23
+HEA	  11	         16	         20	           22	
+KNO	  11	         17	         22	           23
